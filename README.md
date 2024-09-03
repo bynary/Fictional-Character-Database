@@ -34,7 +34,7 @@ pip install -r requirements.txt
 4. Set up the database 
 
 ```bash
-flash db upgrade
+flask db upgrade
 ```
 
 
